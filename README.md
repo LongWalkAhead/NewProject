@@ -1,1 +1,1 @@
--once you start the code, simply selecting the number you'd like to chose for demonstration will run, afterwards, it will give you a print statement letting you know the application has successfully done its job. Simply restart the application again to select the other menu items.
+-once you start the code, simply selecting the number you'd like to chose for demonstration and the function will do its job and return the results you are looking for, make sure to press, "display conctacts" to make sure that the function has run its course
